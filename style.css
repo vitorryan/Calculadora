@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+*{
+
+}
+
+.calculadora {
+    height: 100px;
+    width: 500px;
+    border: 1px 1px black;
+}
